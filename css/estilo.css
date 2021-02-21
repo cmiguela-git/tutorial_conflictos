@@ -8,6 +8,12 @@ body {
     padding: 0 17px;
     background-color: white;
 }
+#pie {
+    border-top: 1px solid #9b9b9b;
+    height: 50px;
+    background-color: #9b9b9b;
+}
+
 h2 {
     border-bottom: 1px solid #a0b0a0; 
 }
