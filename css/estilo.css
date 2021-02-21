@@ -9,8 +9,14 @@ body {
     background-color: white;
 }
 #pie {
+<<<<<<< HEAD
     height: 30px;
     background-color: #FFFF00;
+=======
+    border-top: 1px solid #9b9b9b;
+    height: 50px;
+    background-color: #9b9b9b;
+>>>>>>> refs/remotes/origin/main
 }
 
 h2 {
